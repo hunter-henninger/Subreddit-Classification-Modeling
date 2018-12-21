@@ -14,14 +14,14 @@ This study begins by scraping posts from the Reddit API. The corpus of posts is 
 
 ### Subreddits
 
-- [Buddhism](https://www.reddit.com/r/Buddhism/)
-- [Taoism](https://www.reddit.com/r/taoism/)
+- [Buddhism](https://www.reddit.com/r/Buddhism/)  
+- [Taoism](https://www.reddit.com/r/taoism/)  
 
 
 ## Contents:
-- [01_Data_Wrangling](./01_Data_Wrangling.ipynb)
-- [02_Preprocessing_and_Modeling](./02_Preprocessing_and_Modeling.ipynb)
-- [03_Model_Evaluation_and_Insights](./03_Model_Evaluation_and_Insights.ipynb)
+- [01_Data_Wrangling](./01_Data_Wrangling.ipynb)  
+- [02_Preprocessing_and_Modeling](./02_Preprocessing_and_Modeling.ipynb)  
+- [03_Model_Evaluation_and_Insights](./03_Model_Evaluation_and_Insights.ipynb)  
 
 
 ## Key Remarks
