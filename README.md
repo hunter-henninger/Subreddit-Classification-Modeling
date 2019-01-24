@@ -19,9 +19,9 @@ This study begins by scraping posts from the Reddit API. The corpus of posts is 
 
 
 ## Contents:
-- [01_Data_Wrangling](./01_Data_Wrangling.ipynb)  
-- [02_Preprocessing_and_Modeling](./02_Preprocessing_and_Modeling.ipynb)  
-- [03_Model_Evaluation_and_Insights](./03_Model_Evaluation_and_Insights.ipynb)  
+- [01_Data_Wrangling](./Code/01_Data_Wrangling.ipynb)  
+- [02_Preprocessing_and_Modeling](./Code/02_Preprocessing_and_Modeling.ipynb)  
+- [03_Model_Evaluation_and_Insights](./Code/03_Model_Evaluation_and_Insights.ipynb)  
 
 
 ## Key Remarks
